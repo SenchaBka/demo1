@@ -1,4 +1,5 @@
 Student Name            Roll #         Email
-Liza                    151655         -
+Liza                    151655         liza@centennial.ca
 John                    123455         john@gmail.com
 Arsenii                 165165         arsenii.buriak@gmail.com
+Yehor                   561565         yehor@gmail.com
